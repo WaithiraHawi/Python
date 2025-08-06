@@ -2,6 +2,9 @@
 
 This project provides a comprehensive analysis of customer acquisition data, exploring marketing channel performance, revenue generation, and customer segmentation. It also includes predictive modeling for revenue forecasting and estimating customer lifetime value (LTV).
 
+<img width="1024" height="1024" alt="Customer Acquisition" src="https://github.com/user-attachments/assets/0f598022-6043-443e-ade8-b11d61f01142" />
+
+
 ## Dataset Overview
 
 * `customer_id`: Unique identifier for each customer
